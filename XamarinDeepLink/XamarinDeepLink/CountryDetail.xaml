@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinDeepLink.CountryDetail">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Vertical"
+                         VerticalOptions="CenterAndExpand">
+                <Label x:Name="lblCountry" Text="{Binding Name}"
+                       FontSize="Large"
+                       FontAttributes="Bold"
+                       TextColor="{Binding FontColor}"
+                       HorizontalOptions="CenterAndExpand" />
+                <Button x:Name="btnShare"
+                        Margin="0,20,0,0"
+                        Text="Share"
+                        Clicked="btnShare_Clicked"
+                        HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\marce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppIndexing\8.4.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\marce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\8.4.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\marce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Basement\8.4.0\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\marce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppIndexing\8.4.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\marce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\8.4.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\marce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Basement\8.4.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>
